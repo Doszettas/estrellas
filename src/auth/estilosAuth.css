@@ -1,0 +1,21 @@
+#cuerpo_login {
+    /*background-color: rgba(150, 231, 194, 0.762);*/
+    background: url('https://i.pinimg.com/originals/1f/69/af/1f69afb7d86d6e54a77cf912b624de32.jpg');
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border: solid 5px rgb(0, 153, 255);
+}
+
+#titulo_login {
+    color: rgb(14, 109, 217);
+    text-align: center;
+    margin-top: 50px;
+}
+
+#cargando {
+    background-color: rgba(150, 231, 194, 0.762);
+    text-align: center;
+    margin: 30px;
+    border: solid 5px rgb(255, 51, 0);
+}
